@@ -1,4 +1,4 @@
-package tuf.dsa.trees.construction;
+package trees;
 
 public class TreeNode {
     public int data;

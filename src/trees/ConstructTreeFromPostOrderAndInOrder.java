@@ -1,4 +1,4 @@
-package tuf.dsa.trees.construction;
+package trees;
 
 import java.util.HashMap;
 import java.util.Map;
