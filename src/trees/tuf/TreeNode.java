@@ -1,4 +1,4 @@
-package trees;
+package trees.tuf;
 
 public class TreeNode {
     public int data;

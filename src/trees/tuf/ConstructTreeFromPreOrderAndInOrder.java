@@ -1,4 +1,4 @@
-package trees;
+package trees.tuf;
 
 import java.util.HashMap;
 import java.util.Stack;

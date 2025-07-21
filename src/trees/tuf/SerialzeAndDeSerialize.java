@@ -1,4 +1,4 @@
-package trees;
+package trees.tuf;
 
 import java.util.LinkedList;
 import java.util.Queue;
