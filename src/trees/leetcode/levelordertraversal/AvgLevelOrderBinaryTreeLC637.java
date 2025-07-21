@@ -1,6 +1,6 @@
 package trees.leetcode.levelordertraversal;
 
-import trees.tuf.TreeNode;
+import trees.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

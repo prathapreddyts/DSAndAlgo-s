@@ -1,5 +1,7 @@
 package trees.tuf;
 
+import trees.TreeNode;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

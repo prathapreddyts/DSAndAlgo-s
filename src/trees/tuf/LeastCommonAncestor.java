@@ -1,5 +1,7 @@
 package trees.tuf;
 
+import trees.TreeNode;
+
 import java.util.*;
 
 public class LeastCommonAncestor {

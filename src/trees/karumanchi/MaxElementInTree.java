@@ -1,6 +1,6 @@
 package trees.karumanchi;
 
-import trees.tuf.TreeNode;
+import trees.TreeNode;
 
 import java.util.Stack;
 

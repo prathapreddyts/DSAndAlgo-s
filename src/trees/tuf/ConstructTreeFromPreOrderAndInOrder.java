@@ -1,5 +1,7 @@
 package trees.tuf;
 
+import trees.TreeNode;
+
 import java.util.HashMap;
 import java.util.Stack;
 
