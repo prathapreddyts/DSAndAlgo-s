@@ -1,4 +1,4 @@
-package trees.leetcode.levelordertraversal;
+package trees.learnyard.levelordertraversal;
 
 import trees.TreeNode;
 
