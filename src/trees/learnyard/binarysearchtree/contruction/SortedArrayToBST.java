@@ -1,4 +1,4 @@
-package trees.learnyard.bst.contruction;
+package trees.learnyard.binarysearchtree.contruction;
 
 import trees.TreeNode;
 
