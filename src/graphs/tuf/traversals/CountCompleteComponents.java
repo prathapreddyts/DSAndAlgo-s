@@ -32,7 +32,9 @@ public class CountCompleteComponents {
                     }
                 }
 
-                if (isComplete) cnt++;
+                if (isComplete) {
+                    cnt++;
+                }
             }
         }
 
